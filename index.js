@@ -74,7 +74,7 @@ bot.status({
 /*
 bot.status({
   status: "idle",
-  text: "$membersCount[1000130882826416198] Members🍂",
+  text: "$membersCount[Your Server Id Here] Members🍂",
   type: "WATCHING",
   time: 12
 })
