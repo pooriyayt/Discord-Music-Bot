@@ -1,10 +1,7 @@
 
 ## **Preview:**
-
-<img src="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png" style="width:700px; height:500px">
-
+<a href="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png"><img src="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png" style="width:700px; height:500px"> </a>
 ****
-
 ## **How To Use❓**
 
 ### For Use This Bot You Can Download Files From __Releases__ And Follow The Setup
@@ -22,7 +19,9 @@
 
 > 5- `npm i ffmpeg-static@latest`
 
-> 6- `Enable Intents`
+> 6- `npm i @akarui/aoi.panel@latest`
+
+> 7- `Enable Intents`
 ![Enable Intents](https://cdn.wild-life-studio.ir/assets/image/discord-intents.png) 
 ****
 ### **Commands🤖**
