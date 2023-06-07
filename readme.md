@@ -19,11 +19,9 @@
 
 > 5- `npm i ffmpeg-static@latest`
 
-> 6- `npm i FFmpeg/avconv@latest`
+> 6- `npm i @akarui/aoi.panel@latest`
 
-> 7- `npm i @akarui/aoi.panel@latest`
-
-> 8- `Enable Intents`
+> 7- `Enable Intents`
 ![Enable Intents](https://cdn.wild-life-studio.ir/assets/image/discord-intents.png) 
 ****
 ### **Commands🤖**
@@ -63,7 +61,7 @@
 
 
 ****
-<a href="https://pooriya.wild-life-studio.ir/donate"><img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" style="width:100px" draggable="false"></a>
+<img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" style="width:100px" draggable="false"></a>
 
 
 
