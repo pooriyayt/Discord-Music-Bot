@@ -42,7 +42,23 @@
 ## **How To Run ❓**
 > **`Node index.js`**
 ****
+## **How To Get SoundCloud Id ❓**
 
+> 1. Open https://soundcloud.com/ in your favorite browser.
+
+> 2. Play any track.
+
+> 3. Right click -> Inspect
+
+> 4. Go to the NetWork TAB.
+
+> 5. Find a header with me?clientId=YOUR_CLIENT_ID
+
+> 6. YOUR_CLIENT_ID is the "SoundCloudID" you need.
+![YOUR_CLIENT_ID is the "SoundCloudID" you need.](https://cdn.wild-life-studio.ir/assets/image/soundCloudId.png) 
+
+
+****
 <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" style="width:100px" draggable="false"></a>
 
 
