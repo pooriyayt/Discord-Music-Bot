@@ -5,11 +5,11 @@ module.exports  =  [{
     code:  `
     $editMessage[$awaitData[msgID];{newEmbed:{author:Now  Playing}{title:$songInfo[title]}{description:
     
-    >  🎵  **Artist:**$songInfo[artist]
+    >  🎵  **Artist:** $songInfo[artist]
   
-    >  🎵  **Duration:$digitalFormat[$getCurrentTrackDuration]/$digitalformat[$songInfo[duration]]**
+    >  🎵  **Duration: $digitalFormat[$getCurrentTrackDuration]/$digitalformat[$songInfo[duration]]**
     
-    >  🎵  **Volume:**$volume
+    >  🎵  **Volume:** $volume
     
     >  🎵  **Url:**  $songInfo[url]
     
