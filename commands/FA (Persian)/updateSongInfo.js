@@ -19,7 +19,7 @@ module.exports  =  [{
     
     >  🎵  **Platform:**  $songInfo[formatedPlatforms]
 
-    >  🎵 $if[$getGuildVar[autoplay]==false]❌$else✅$endif
+    >  🎵 **AutoPlay:** $if[$getGuildVar[autoplay]==false]❌$else✅$endif
     
     }{image:$songInfo[thumbnail]}{color:$getVar[color]}};$awaitData[channelID]]
     $wait[4s]
