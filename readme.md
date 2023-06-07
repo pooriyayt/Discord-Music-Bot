@@ -1,7 +1,10 @@
 
 ## **Preview:**
-<a href="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png"><img src="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png" style="width:700px; height:500px"> </a>
+
+<img src="https://cdn.wild-life-studio.ir/assets/image/music-project-preview.png" style="width:700px; height:500px">
+
 ****
+
 ## **How To Use❓**
 
 ### For Use This Bot You Can Download Files From __Releases__ And Follow The Setup
