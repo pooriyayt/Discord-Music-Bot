@@ -6,7 +6,7 @@ module.exports = {
   $onlyIf[$channelExists[$getGuildVar[music_channelID]]==true;]
   $onlyIf[$messageExists[$getGuildVar[music_player]]==true;]
   
-  $title[<a:music:993033903180877854>  آهنگ به اتمام رسید <a:music:993033903180877854> ]
+  $title[🎵 آهنگ به اتمام رسید 🎵 ]
   $color[Green]
 
       `
