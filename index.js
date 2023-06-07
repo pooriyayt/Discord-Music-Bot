@@ -18,7 +18,7 @@ const {
 
 
 const bot = new AoiClient({
-  token: "OTgyMjEwMDIyNDkyNzMzNTIx.GVKl5w.mbdRizQd_gKnOPhOeoTuQwmazta9Ju6ccSvfmE",
+  token: "Your Bot Token Here",
   prefix: "#",
   intents: ["MessageContent", "Guilds", "GuildMessages", "GuildVoiceStates"],
   events: ["onMessage", "onInteractionCreate"],
