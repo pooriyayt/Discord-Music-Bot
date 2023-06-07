@@ -64,8 +64,21 @@ voice.addPlugin(PluginName.Filter, new Filter({
   filterFromStart: false,
 }));
 
+bot.status({
+  status: "idle",
+  text: "Made By Wild Life Studio With 💖&☕",
+  type: "WATCHING",
+  time: 12
+})
 
-
+/*
+bot.status({
+  status: "idle",
+  text: "$membersCount[1000130882826416198] Members🍂",
+  type: "WATCHING",
+  time: 12
+})
+*/
 const { Panel } = require("@akarui/aoi.panel")
 
 const panel = new Panel({
