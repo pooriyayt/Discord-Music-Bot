@@ -19,9 +19,11 @@
 
 > 5- `npm i ffmpeg-static@latest`
 
-> 6- `npm i @akarui/aoi.panel@latest`
+> 6- `npm i FFmpeg/avconv@latest`
 
-> 7- `Enable Intents`
+> 7- `npm i @akarui/aoi.panel@latest`
+
+> 8- `Enable Intents`
 ![Enable Intents](https://cdn.wild-life-studio.ir/assets/image/discord-intents.png) 
 ****
 ### **Commands🤖**
