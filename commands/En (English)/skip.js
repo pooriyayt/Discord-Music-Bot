@@ -1,7 +1,7 @@
 module.exports = {
     name: "skip",
     code: `
-    $title[Music Skiped ✅✅]
+    $title[Music Skiped ✅]
     $color[$getVar[color]]
     $skipTrack
     `
