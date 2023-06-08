@@ -1,7 +1,7 @@
 module.exports ={
 name: "setup",
 code: `
-
+Ok
 $createApplicationCommand[global;play;Play Songs;true;slash;[
     {
       "name": "name",

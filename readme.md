@@ -21,12 +21,14 @@
 
 > 6- `npm i @akarui/aoi.panel@latest`
 
-> 7- `Enable Intents`
+> 7- `npm i @discordjs/opus`
+
+> 8- `Enable Intents`
 ![Enable Intents](https://cdn.wild-life-studio.ir/assets/image/discord-intents.png) 
 
-> 8- `Run This Command After Bot Turned On {$perfix}setup For Example w!setup`
+> 9- `Run This Command After Bot Turned On {$perfix}setup For Example w!setup`
 
-> 9- `You Can Change Bot Embed Color From variables Folder In variables.js `
+> 10- `You Can Change Bot Embed Color From variables Folder In variables.js `
 ****
 ### **Commands🤖**
 > 1- **`Autoplay🍂`**
