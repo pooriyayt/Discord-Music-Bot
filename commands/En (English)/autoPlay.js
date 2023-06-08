@@ -1,4 +1,4 @@
-module.exports ={
+module.exports = {
   name: "autoplay",
   aliases: "ap",
   $if: "old",
@@ -18,5 +18,5 @@ module.exports ={
   $endif
     
   `
-  
-  }
+
+}

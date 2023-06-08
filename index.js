@@ -1,7 +1,22 @@
 /*
 Made By Wild Life Studio | ! ᜴💍|𝓹𝓸𝓸𝓻𝓲𝔂𝓪.𝔂𝓽𖧞༆❦#3333
 
-discord.gg/tehran | discord.gg/8R8EUhBbyt
+discord.gg/8R8EUhBbyt
+
+
+__          ___ _     _   _      _  __        _____ _             _ _       
+ \ \        / (_) |   | | | |    (_)/ _|      / ____| |           | (_)      
+  \ \  /\  / / _| | __| | | |     _| |_ ___  | (___ | |_ _   _  __| |_  ___  
+   \ \/  \/ / | | |/ _` | | |    | |  _/ _ \  \___ \| __| | | |/ _` | |/ _ \ 
+    \  /\  /  | | | (_| | | |____| | ||  __/  ____) | |_| |_| | (_| | | (_) |
+     \/  \/   |_|_|\__,_| |______|_|_| \___| |_____/ \__|\__,_|\__,_|_|\___/ 
+                                                                             
+     
+     
+ +-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |M|a|d|e| |B|y| |W|i|l|d|_|L|i|f|e|_|S|t|u|d|i|O|
+ +-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                                                          version 7.0.3
 
 */
 const { LoadCommands, AoiClient } = require("aoi.js");
@@ -79,6 +94,21 @@ bot.status({
   time: 12
 })
 */
+
+bot.readyCommand({
+  code: `
+    $log[
+
+      I'm Ready On $userTag[$clientID]
+          
+      +-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+      |M|a|d|e| |B|y| |W|i|l|d|_|L|i|f|e|_|S|t|u|d|i|O|
+      +-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                                                               version 7.0.3
+      discord.gg/8R8EUhBbyt
+    ]
+    `
+})
 const { Panel } = require("@akarui/aoi.panel")
 
 const panel = new Panel({
