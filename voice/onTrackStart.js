@@ -3,26 +3,27 @@ module.exports = {
     channel: "$channelID",
     code: `
     $setGuildVar[music_channelID;$channelID]
-    $setGuildVar[music_player;$get[msgID]]
+    $setGuildVar[music_player;$get[id]]
    $wait[2s]
   $let[id;$sendMessage[{newEmbed:{author:Now Playing}{title:$songInfo[title]}{description: $songInfo[description]}{description:
   
-    >  🎵  **Artist: **$songInfo[artist]
+    >  🎵  **Artist:** **$songInfo[artist]**
   
-    >  🎵  **Duration: **$digitalformat[$songInfo[duration]]**
+    >  🎵  **Duration:** **$digitalformat[$songInfo[duration]]**
     
-    >  🎵  **Volume:** $volume
+    >  🎵  **Volume:** **$volume**
     
-    >  🎵  **Url:** $songInfo[url]
+    >  🎵  **Url:** **$songInfo[url]**
     
-    >  🎵  **Requested By:**  $songInfo[requester]
+    >  🎵  **Requested By:**  **$songInfo[requester]**
     
-    >  🎵  **Veiws:** $songInfo[views]
+    >  🎵  **Veiws:** **$songInfo[views]**
     
-    >  🎵  **Platform:** $songInfo[formatedPlatforms]
+    >  🎵  **Platform:** **$songInfo[formatedPlatforms]**
 
   }{image:$songInfo[thumbnail]}{color:Green}};true]]
   $suppressErrors
   $volume[100]
+  $wait[4s]
       `
   }
