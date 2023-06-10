@@ -4,7 +4,7 @@
 ****
 ## **How To Use❓**
 
-### For Use This Bot You Can Download Files From __Release__ And Follow The Setup
+### For Use This Bot You Can Download Files From <a href="https://github.com/pooriyaYT1374/Discord-Music-Bot/releases/tag/Version-7.0.3">__Releases__ </a> And Follow The Setup
 
 ****
 
