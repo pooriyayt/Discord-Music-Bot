@@ -4,7 +4,7 @@
 ****
 ## **How To Use❓**
 
-### For Use This Bot You Can Download Files From __Releases__ And Follow The Setup
+### For Use This Bot You Can Download Files From __Release__ And Follow The Setup
 
 ****
 
