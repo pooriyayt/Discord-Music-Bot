@@ -63,7 +63,7 @@
 > 5. Find a header with me?clientId=YOUR_CLIENT_ID
 
 > 6. YOUR_CLIENT_ID is the "SoundCloudID" you need.
-![YOUR_CLIENT_ID is the "SoundCloudID" you need.](https://cdn.wild-life-studio.ir/assets/image/soundCloudId.png) 
+
 
 
 ****
