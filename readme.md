@@ -4,7 +4,7 @@
 ****
 ## **How To Use❓**
 
-### For Use This Bot You Can Download Files From <a href="https://github.com/pooriyaYT1374/Discord-Music-Bot/releases/tag/Version-7.0.3">__Releases__ </a> And Follow The Setup
+### For Use This Bot You Can Download Files From __Releases__ And Follow The Setup
 
 ****
 
@@ -63,7 +63,7 @@
 > 5. Find a header with me?clientId=YOUR_CLIENT_ID
 
 > 6. YOUR_CLIENT_ID is the "SoundCloudID" you need.
-
+![YOUR_CLIENT_ID is the "SoundCloudID" you need.](https://cdn.wild-life-studio.ir/assets/image/soundCloudId.png) 
 
 
 ****
