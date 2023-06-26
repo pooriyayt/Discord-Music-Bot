@@ -21,7 +21,7 @@ module.exports = {
     
     >  🎵  **Platform:** **$songInfo[formatedPlatforms]**
 
-  }{image:$songInfo[thumbnail]}{color:Green}};true]]
+  }{image:$songInfo[thumbnail]}{color: $getVar[color]}};true]]
   $suppressErrors
   $volume[100]
   $wait[4s]
