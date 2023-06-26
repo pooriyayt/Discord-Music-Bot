@@ -4,6 +4,11 @@ module.exports = bot => {
       autoplay: "false",
       music_channelID: "null",
       music_player: "null",
+      yes_emoji: "✅",
+      volume: "100",
+      authorbutton: "0",
+      play_pause: "none",
+      loop: "none"
 
     });
   }

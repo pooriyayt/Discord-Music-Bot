@@ -3,7 +3,7 @@ module.exports = {
     aliases: "p",
     $if: "old",
     code: `
-
+    $setGuildVar[authorbutton;$authorID]
   $interactionDefer[false]
   $title[Song Added To Queue✅]
   $color[$getVar[color]]

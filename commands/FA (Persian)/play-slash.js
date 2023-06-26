@@ -4,11 +4,11 @@ module.exports = {
     type: "interaction",
     $if: "old",
     code: `
-
+    $setGuildVar[authorbutton;$authorID]
   $interactionFollowUp[;{newEmbed:{title:آهنگ با موفقیت به صف پخش ضافه شد✅} {color: $getVar[color]}}]
   $let[msg;$playTrack[$nonescape[$slashOption[name]];$slashOption[platform]]]
   $interactionDefer[false]
-  
+
   
       $if[$hasPlayer==false]
           $joinVc[$voiceId]
