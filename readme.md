@@ -13,7 +13,7 @@
 
 > 2- `npm i @akarui/aoi.music@latest`
 
-> 3- `npm i aoi.db`
+> 3- `npm i @akarui/aoi.db`
 
 > 4- `npm i express`
 
