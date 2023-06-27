@@ -1,6 +1,6 @@
 module.exports = {
     name: "volume",
-    aliases: "v",
+    aliases: "vol",
     code: `
    $title[Volume]  
    $description[
