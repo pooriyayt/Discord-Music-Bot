@@ -13,9 +13,11 @@ module.exports ={
 
 > 5- **Play🎵**
 
-> 6- **Stop🛑**
+> 6- </play:$getApplicationCommandID[play;global]>
 
-> 7- **Volume🔊**
+> 7- **Stop🛑**
+
+> 8- **Volume🔊**
     ]
     $color[$getVar[color]]
     `
